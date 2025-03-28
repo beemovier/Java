@@ -2,22 +2,31 @@ import java.util.Scanner;
 
 public class exer1 {
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+
+        // Entrada
+        int idade;
+        char sexo;
+        String nome;
+
+        // Processamento
+        Scanner escreva = new Scanner(System.in);
 
         System.out.print("Nome: ");
-        String nome = scanner.nextLine();
+        nome = escreva.nextLine();
 
         System.out.print("Idade: ");
-        int idade = scanner.nextInt();
+        idade = escreva.nextInt();
 
         System.out.print("Sexo: ");
-        char sexo = scanner.next().charAt(0);
+        sexo = escreva.next().charAt(0);
+
+        // Saida
 
         System.out.println("Informações:");
         System.out.println("Nome: " + nome);
         System.out.println("Idade: " + idade);
         System.out.println("Sexo: " + sexo);
 
-        scanner.close();
+        escreva.close();
     }
 }

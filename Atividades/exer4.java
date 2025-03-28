@@ -10,11 +10,12 @@ public class exer4 {
        float novoSalario;
        char confirmacao;
 
+       // PROCESSAMENTO
         // Solicita o salario e le o valor digitado
         System.out.print("Digite o salario do funcionario: R$");
         salario = entrada.nextFloat(); // Usa float para o salario
 
-        // PROCESSAMENTO
+        
         // Calcula o aumento de 25%
         aumento = salario * 0.25f;
         novoSalario = salario + aumento; // Novo salario com aumento

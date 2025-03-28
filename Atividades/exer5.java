@@ -5,14 +5,18 @@ public class exer5 {
         Scanner scanner = new Scanner(System.in);
 
         // ENTRADA DE DADOS
-        System.out.print("Digite o valor da base do triangulo: ");
-        float base = scanner.nextFloat(); // Lê o valor da base
-
-        System.out.print("Digite o valor da altura do triangulo: ");
-        float altura = scanner.nextFloat(); // Lê o valor da altura
+        float base;
+        float altura;
+        float area;
 
         // PROCESSAMENTO
-        float area = (base * altura) / 2; // Calcula a área do triângulo
+        System.out.print("Digite o valor da base do triangulo: ");
+        base = scanner.nextFloat(); // Lê o valor da base
+
+        System.out.print("Digite o valor da altura do triangulo: ");
+        altura = scanner.nextFloat(); // Lê o valor da altura
+
+        area = (base * altura) / 2; // Calcula a área do triângulo
 
         // SAIDA
         System.out.println("A area do triangulo retangulo e: " + area);
