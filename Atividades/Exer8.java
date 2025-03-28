@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exer8 {
+public class exer8 {
 
     // //ENTRADA: Declaração de variáveis
     static float SalarioMinimo;    // Variável para armazenar o valor do salário mínimo
