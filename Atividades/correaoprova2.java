@@ -1,4 +1,4 @@
-public class Main {
+public class correaoprova2 {
     public static void main(String[] args) {
         int a, b, c;  // Declaração das variáveis
         a = 15;        // Atribui valor a a

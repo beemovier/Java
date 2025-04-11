@@ -1,6 +1,6 @@
 //Comparando valores de entrada
 import java.util.Scanner;
-public class Main {
+public class java {
     public static void main(String[] args) {
         Integer inteiro = 3;
         
