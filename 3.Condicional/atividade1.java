@@ -1,3 +1,7 @@
+/*Faça um algoritmo que
+ * e se ele for maior que 20 imprimir a sua metade
+ */
+
 import java.util.Scanner;
 public class atividade1 {
    
