@@ -2,7 +2,7 @@
 # Experiencia com java
 
 ## Variáveis
-### boolean, char, short, int, const, unsigned
+### boolean, char, short, int, const, unsigned, float, double
 
 ## Desvios condicionais
 ### if, else 
