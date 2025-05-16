@@ -12,3 +12,6 @@
 
 ## Estruturas de repetição
 ### for, while
+
+
+Se você adicionar uma linha em branco antes de cada título e seção, o Markdown do GitHub deve renderizar corretamente.
