@@ -1,5 +1,4 @@
 //Comparando valores de entrada
-import java.util.Scanner;
 public class obterClasse {
     public static void main(String[] args) {
         Integer inteiro = 3;
