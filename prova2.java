@@ -13,4 +13,6 @@ public class prova1 {
 
     }
 }
-//esqueci de adicionar o f. era melhor com double
+//esqueci de adicionar o f. era melhor com double. na vdd isso tava certo
+//o problema foi que usei unsigned pensei que tinha no java
+//poderia mesmo ter usado double
