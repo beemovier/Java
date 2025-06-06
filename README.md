@@ -2,7 +2,13 @@
 # Experiencia com java
 
 ## Variáveis
-### boolean, char, short, int, float, double
+### boolean, char, String, int, float, double
+
+## Classes essenciais
+## String, Scanner, ArrayList, File
+
+## Funções Simples
+### System.out,,String.toUpperCase(); Integer.parseint(); List.add()
 
 ## Desvios condicionais
 ### if, else 
